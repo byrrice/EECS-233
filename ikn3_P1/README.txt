@@ -1,0 +1,2 @@
+To run the demo, you open up the demo class and click run on the far right. The output should be in the interactions pane of DrJava or in the Console. 
+For the rest of the programs, I trust that my comments will be enough. 
